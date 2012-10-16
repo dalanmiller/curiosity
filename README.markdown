@@ -3,7 +3,7 @@
 
 ### General
 
-Curiosity is a very simplistic Skype bot writted in Python using **Skype4Py** module. Although imperfect, it has a very easy tu use plugin system, so a working plugin can be created in a matter of minutes.
+Curiosity is a very simplistic Skype bot writted in Python using **Skype4Py** module. Although imperfect, it has a very easy to use plugin system, so a working plugin can be created in a matter of minutes.
 
 To run Curiosity, execute command `python curiosity.py`.
 
@@ -19,4 +19,4 @@ A plugin template can be found in `plugins/template` folder. There you can find 
 
 ### pluginapi
 
-A plugin can also import `pluginapi` module which is (or will be) a collection. For now it provides `MessageTracker` class which helps a plugin to discover its unread messages. You can find an example of `MessageTracker` usage in `plugins/template/plugin.py` example.
+A plugin can also import `pluginapi` module which is (or will be) a collection of commonly used functions. For now it provides `MessageTracker` class which helps a plugin to discover its unread messages. You can find an example of `MessageTracker` usage in `plugins/template/plugin.py` example.
