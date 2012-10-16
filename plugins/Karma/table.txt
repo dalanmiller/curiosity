@@ -1,0 +1,4 @@
+miegas 3
+gedas 2
+saltis -2
+kristis 1
