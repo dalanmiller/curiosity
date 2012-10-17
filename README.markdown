@@ -3,7 +3,7 @@
 
 ### General
 
-Curiosity is a very simplistic Skype bot writted in Python using **Skype4Py** module. Although imperfect, it has a very easy to use plugin system, so a working plugin can be created in a matter of minutes.
+Curiosity is a very simplistic Skype bot written in Python using **Skype4Py** module. Although imperfect, it has a very easy to use plugin system, so a working plugin can be created in a matter of minutes.
 
 To run Curiosity, execute command `python curiosity.py`.
 
